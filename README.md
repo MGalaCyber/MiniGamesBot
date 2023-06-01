@@ -88,6 +88,9 @@ COLOR=REPLACE_HERE
 ```
 After installation or finishes all you can use `node .` to start the bot. or `Run Start.bat`
 
+## 🔔 Notice!
+Now for Decrypted version is Available on [Ko-Fi Shop](https://ko-fi.com/galaxd1274/shop). You can buy like Basic/Master version with Different Features. By buying my project products, you help me to keep motivated and passionate about developing other projects.
+
 ## 🔐 Licensed
 
 Distributed under the `Apache 2.0 License`. See [`LICENSE`](https://github.com/MGalaCyber/MinigamesBot/blob/master/LICENSE) for more information.
